@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
+  <channel xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
+    <title>jobs in melbourne - Stack Overflow</title>
+    <link>https://stackoverflow.com/jobs</link>
+    <description>jobs in melbourne - Stack Overflow</description>
+    <image>
+      <url>http://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d</url>
+      <title>jobs in melbourne - Stack Overflow</title>
+      <link>https://stackoverflow.com/jobs</link>
+    </image>
+    <os:totalResults>31</os:totalResults>
+    <item>
+      <guid isPermaLink="false">161955</guid>
+      <link>https://stackoverflow.com/jobs/161955/fullstack-java-developer-in-a-fast-growing-global-adyen?a=SjvE0M6A9ri</link>
+      <a10:author>
+        <a10:name>Adyen</a10:name>
+      </a10:author>
+      <category>java</category>
+      <category>sql</category>
+      <category>postgresql</category>
+      <title>Fullstack Java Developer in a Fast Growing Global FinTech Company at Adyen (Melbourne, Australia)</title>
+      <description>&lt;p&gt;Ordering a pizza? Buying a pair of trainers? Watching a movie? Chances are Adyen is handling your payment. We are a fast-growing global fintech company headquartered in Amsterdam, delivering seamless payment experiences to customers around the world. Driven by a vision to improve customer experience, streamline processes, and ultimately increase revenue, we enable businesses to unify payments across online, mobile, and Point-of-Sale (POS) channels. With over 250 payment methods in 187 transaction currencies all over the world, Adyen is the only solution in the market that is able to offer the end-to-end infrastructure in a single system, which is built and managed in-house. Over 5,000 businesses use the Adyen payment platform, including Facebook, Kogan, Netflix, Spotify, Groupon, Evernote and Booking.com. &amp;nbsp;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;We are at the forefront of the global technology scene, providing our services to the world's leading innovative companies. We work in close partnership with these companies to ensure they are always ahead of the game. Guided by Fintech's most experienced software developers,&amp;nbsp;&lt;strong&gt;we need you&lt;/strong&gt;&amp;nbsp;to contribute to our fast-growing platform that processes billions of transactions every year.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;We would like to add technical talent to our skilled team in Melbourne.&amp;nbsp;You will work on challenging projects to innovate our platform and therefore benefit our customers (merchants). You will solve hard technical problems effectively and find the right balance between elegant solutions and time-to-market.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;You will:&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Be responsible for full life cycle development: communicating with stakeholders and merchants and monitoring the impact of the feature;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Design, implement, test and monitor new functionalities to the platform;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Maintain and extend a single platform that is completely developed in house;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Support e-commerce, mobile and POS integrations;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Identify and improve parts of the platform to make it more robust and scalable;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Collaborate across teams and time zones to make things happen, review code and be open to feedback.&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;You like to:&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Work in a technology company on very challenging role supporting colleagues and merchants.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Work with leading edge technology on a platform that was built in house, from the ground up&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Be part of a complex payment ecosystem (and make it seem so easy for everyone around you)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Collaborate with colleagues and companies all around the world, across different borders and timezones&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Get the freedom and responsibility to make your own decisions&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;You are:&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Highly skilled with Java 8&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experienced with designing REST APIs&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Familiar with web development and (Postgre)SQL databases&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experienced with Gradle or similar build system&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Familiar with building resilient, highly-available, low-latency and scalable systems&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Having excellent communication skills&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Someone with: attention to detail, likes taking ownership, a team player&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Holding an Australian Citizenship or Permanent Residency status&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+      <pubDate>Mon, 23 Apr 2018 19:57:45 Z</pubDate>
+      <a10:updated>2018-04-23T19:57:45Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">172172</guid>
+      <link>https://stackoverflow.com/jobs/172172/devops-engineer-hays-plc?a=VJWYxLLT59C</link>
+      <a10:author>
+        <a10:name>Hays plc</a10:name>
+      </a10:author>
+      <category>java</category>
+      <category>devops</category>
+      <category>samoa</category>
+      <category>ldap</category>
+      <category>oracle</category>
+      <title>DevOps Engineer at Hays plc (Docklands, Australia)</title>
+      <description>&lt;p&gt;&lt;span&gt;&lt;strong&gt;DevOps Engineer&lt;/strong&gt;&lt;/span&gt;&amp;nbsp;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;My client NAB is looking for a DevOps Engineer who is not afraid to get hands on and is well versed in production operations support to be part of an exciting part of growth and ongoing development project.&amp;nbsp;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;You will be responsible for but not limited to the below:&amp;nbsp;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;5+ years of experience in a DevOps role.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;5+ years of experience as a Java developer and tester in a complex, enterprise-level development environment.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;3+ years in identity and access management development.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;3+ years in Incident and Problem Management Experience in a production support setting&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Knowledge of identity federation: SAMO, OAuth 2.0, Liberty, OpenID Connect.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience in LDAP and LDAP Server: Oracle OUD or OpenDJ Preferred.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience with network, operating system, database and storage support.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Solid understanding of automated software application builds and deployments.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience in agile software development&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience working on critical, highly available production systems.&amp;nbsp;&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;In return you will be joining an exciting project that will offer you the chance to contribute to this exciting phase of growth and enjoy a fantastic working environment.&lt;/p&gt;</description>
+      <pubDate>Fri, 27 Apr 2018 05:58:02 Z</pubDate>
+      <a10:updated>2018-04-27T05:58:02Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Docklands, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">172761</guid>
+      <link>https://stackoverflow.com/jobs/172761/senior-integration-specialist-java-hays-plc?a=VWci1SP0CnC</link>
+      <a10:author>
+        <a10:name>Hays plc</a10:name>
+      </a10:author>
+      <category>java</category>
+      <category>continuous-integration</category>
+      <category>saas</category>
+      <category>soap</category>
+      <category>javascript</category>
+      <title>Senior integration specialist - Java at Hays plc (Port Melbourne, Australia)</title>
+      <description>&lt;p&gt;&lt;strong&gt;Senior Integration specialist&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Exciting contract opportunity for a Senior integration specialist,&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Melbourne Inner city Location&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Exciting contract role with great pay&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Be an integral part in future success&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Your new company&lt;/strong&gt;&amp;nbsp;&lt;br&gt; &lt;br&gt; After 50 years, Toyota has grown to be Australia&amp;rsquo;s leading automotive company, this is an opportunity to join the leader in its field and make your part in its success.&lt;br&gt; &lt;br&gt; &lt;strong&gt;Your new role&lt;/strong&gt;&amp;nbsp;&lt;br&gt; &lt;br&gt; We require an experienced Integration specialist who is not afraid to liaise with decision makers and who has experience in using technology such as Mulesoft, iBus, Stibo STEP, Informatica, Webshare MQ &amp;amp;Trillium&lt;br&gt; &lt;br&gt; Dell Boomi experience would be highly desired!&lt;br&gt; &lt;br&gt; &lt;strong&gt;&lt;br&gt; &lt;strong&gt;What you'll need to succeed&lt;/strong&gt;&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Dell Boomi experience highly desirable!&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Proven track record of implementing complex mission -critical systems&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Passionate about building high quality, scalable and robust systems&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Stakeholder liaison&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience in integration environments, both strategic/enterprise and tactical and project based&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Exception modelling skills at the logical, physical and dimensional level, preferably using UML&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience in writing and executing test plans&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Preferred experience in the automotive industry or other large sales and distribution environment&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience with integrating cloud based (SaaS, PaaS) solutions&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience with Integration and API&amp;rsquo;s.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience with OAuth2.0 and certificate management&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience developing using Integration platforms - ESB and MDM desirable&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience in service design, data modelling and information flow systems&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Hands on development and implementation experience with Javascript, Java, SQL, XML, JSON, and HTML&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experienced at workflow patterns, basic logic flows, user interface development&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Strong experience with SOAP, REST, Java, J2EE, JSP, Ajax, LDAP&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience with GIT, JIRA and Sharepoint.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Desirable experience with Red Hat OpenShift&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Desirable experience in continuous delivery, continuous integration and DEVOps&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;br&gt; &lt;strong&gt;What you'll get in return&lt;/strong&gt;&amp;nbsp;&lt;br&gt; &lt;br&gt; In return you will be joining an exciting project that will offer you the chance to contribute to this exciting phase of growth and enjoy a fantastic working environment.&lt;/p&gt;</description>
+      <pubDate>Sat, 05 May 2018 05:10:16 Z</pubDate>
+      <a10:updated>2018-05-05T05:10:16Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Port Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">152800</guid>
+      <link>https://stackoverflow.com/jobs/152800/senior-developer-creative-technologist-at-portable?a=Pf9oP86auA0</link>
+      <a10:author>
+        <a10:name>Portable</a10:name>
+      </a10:author>
+      <category>reactjs</category>
+      <category>php</category>
+      <category>symfony2</category>
+      <category>java</category>
+      <category>python</category>
+      <title>Senior Developer - Creative Technologist at Portable at Portable (Fitzroy, Australia)</title>
+      <description>&lt;p&gt;We&amp;rsquo;re looking for a senior developer - or as we like to call it "Creative Technologist" - to join our 20+ person strong team in Collingwood and help reshape the future of digital for justice, healthcare and government. You'd be joining the delivery team alongside three other senior developers, senior producers and tester. You'll work on a number of high profile products owned by the company as well as a range of what we call "For Purpose" clients, including the courts, education, mental health providers and government departments.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;We look for developers with broad skill sets who like to get onto a project at conception and see it through from design all the way to being shipped. While our go-to languages are PHP and Javascript, we work across a broad range of technologies, so if you have core competencies in either Java (Tomcat, Spring Boot), Python, Go or&amp;nbsp;Front End (React) we'd be interested in having a chat. While you may be a senior in one of these core areas, you should be excited about the new technologies that are constantly being thrown around the company.&amp;nbsp;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;You'll be&amp;nbsp;somebody with all round technical ability who enjoys working on complex problems that make a real impact on citizens lives. Ideally you are working in a senior position or as a lead, feeling like you want to get exposure to more technologies or actually get coding again, want to see your work in the hands of users and work in a very focussed but enjoyable environment: no weekend, no midnight deploys. We are starting to grow quite rapidly so this is a chance to lead and shape technology at a great company.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;We're a&amp;nbsp;design driven company, so you'll be paired with a UX and UI designer to create fully interactive prototypes before we even think about dev-ops. If you're not already an evangelist of the MVP (minimal viable product) model of design and development, then you will be here.&amp;nbsp;As a company we are building groundbreaking technology that is having an enormous impact on the justice, education and health. We are developing our own products, alongside industry and making an impact.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;We know that you're experienced, but some things that we&amp;rsquo;d like you to have:&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Experience with PHP and various frameworks and CMS such as Symfony&amp;nbsp;&lt;strong&gt;OR&lt;/strong&gt;&amp;nbsp;a very deep level of competency in a modern web language i.e. Ruby, Python, Java, with a willingness to get your hands dirty if needed on other projects&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Front-end skills in Javascript frameworks, React, HTML, CSS&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Strong and broad skills across the back-end (LAMP)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Understanding of Cloud services and infrastructure - AWS, Google Cloud and tools like CircleCI, Docker, Terraform, Microservice architectures.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;A passion to keep learning and trying new technologies, perhaps an interest in AI, ML, VR, AR, SJ&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Good verbal and written communication skills and people skills&amp;nbsp;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;You're a good people person around the office, with experience working with UX and UI designers&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience working with Agile methodologies.&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+      <pubDate>Tue, 15 May 2018 04:49:46 Z</pubDate>
+      <a10:updated>2018-05-15T04:49:46Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Fitzroy, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">151689</guid>
+      <link>https://stackoverflow.com/jobs/151689/software-engineer-iot-platform-development-or-technologies?a=OS39143XRaE</link>
+      <a10:author>
+        <a10:name>OR Technologies</a10:name>
+      </a10:author>
+      <category>java</category>
+      <category>scala</category>
+      <category>jpa</category>
+      <category>spring</category>
+      <category>amazon-web-services</category>
+      <title>Software Engineer:  IoT Platform Development at OR Technologies (Melbourne, Australia)</title>
+      <description>&lt;p&gt;&lt;strong&gt;OR Technologies&lt;/strong&gt; has developed a world leading lighting control solution, which utilises distributed intelligence to achieve unprecedented energy savings at a fraction of the installation cost of traditional systems.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;However, this is only the beginning: Vast amounts of data are collected from our array of sensors and stored in our web platform, the Portal. &amp;nbsp;The Portal enables detailed analysis of occupancy, energy efficiency and other building metrics, which are key insights for creating a smarter, more energy efficient working environment. &amp;nbsp;We are looking for a candidate to work on the ongoing development of the Portal, enabling new applications and ensuring that it retains its place as a world-class IoT product.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;You will be joining a small-team, as a &lt;strong&gt;Full-stack Developer&lt;/strong&gt; reporting to the Technical Director, and as such a demonstrable ability to be self-organised and self-motivated is a must. Furthermore the following technical skills are required:&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Three or more years of software development experience&lt;/li&gt;&lt;br /&gt;&lt;li&gt;At least one year of backend web development experience&lt;/li&gt;&lt;br /&gt;&lt;li&gt;A good understanding of and practical experience with Object-Oriented Programming&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;Some of the technologies that we use and that it would be advantageous to have experience with include Java, Scala, Spring, JPA, Apache Spark, AWS and Jenkins. Full stack development experience would be nice to have, but is not essential.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;We offer competitive remuneration and an exciting working environment, but perhaps more significantly the chance to be at the forefront of the IoT revolution developing a product that can help significantly reduce the drain on our planet's scarce resources.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;So if you aren't just looking for something to do from 9-5 but see yourself having a real impact, we'd love to hear from you!&lt;/p&gt;&lt;br /&gt;&lt;p&gt;*Please note to be considered for this position you must have the legal right to work permanently in Australia*&lt;/p&gt;</description>
+      <pubDate>Wed, 09 May 2018 12:44:47 Z</pubDate>
+      <a10:updated>2018-05-09T12:44:47Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">142314</guid>
+      <link>https://stackoverflow.com/jobs/142314/senior-software-engineer-cogent?a=LJ7hHXDkE6Y</link>
+      <a10:author>
+        <a10:name>Cogent</a10:name>
+      </a10:author>
+      <category>javascript</category>
+      <category>ruby</category>
+      <category>ruby-on-rails</category>
+      <title>Senior Software Engineer at Cogent (Melbourne, Australia)</title>
+      <description>&lt;p&gt;Our Cogent Services group provides top notch consultants to join client teams to design and build awesome and useful apps. We&amp;rsquo;ve got a pretty nice reputation around Melbourne, with plenty of successful projects and happy customers.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;We place importance on working alongside people that we respect and can learn from, and believe in treating each other and our customers well. You&amp;rsquo;ll be joining a supportive environment where your opinion counts, and decisions are underpinned by a strong value system.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;We offer:&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Competitive salary or daily rate (permanent or contract opportunities)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Collaborative team environment with a focus on wellbeing and balance&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Company get-togethers, drinks in the fridge, laughter and bad jokes&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Ongoing interesting opportunities; or assistance to find your next contract&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Lots of other benefits....&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;If you&amp;rsquo;re a developer with some of the skills listed and this sounds good to you, please drop us a line. Make sure you say a friendly hello with your application, we respond well to the human touch :-). We look forward to hearing from you.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Skills &amp;amp; Requirements&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Currently, we&amp;rsquo;re on the lookout for talented senior developers with 7+ years of commercial experience. We need your proficient skills in Ruby and/or .NET, JavaScript, HTML/CSS, AWS. We&amp;rsquo;ve got a variety of useful apps you can work on including cool retail challenges, finance, community art and healthcare.&lt;/p&gt;</description>
+      <pubDate>Tue, 15 May 2018 07:02:10 Z</pubDate>
+      <a10:updated>2018-05-15T07:02:10Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">142315</guid>
+      <link>https://stackoverflow.com/jobs/142315/mid-level-software-engineer-cogent?a=LJ8zDuaHOH6</link>
+      <a10:author>
+        <a10:name>Cogent</a10:name>
+      </a10:author>
+      <category>ruby</category>
+      <category>ruby-on-rails</category>
+      <category>c#</category>
+      <category>java</category>
+      <category>javascript</category>
+      <title>Mid Level Software Engineer at Cogent (Melbourne, Australia)</title>
+      <description>&lt;p&gt;Cogent provides top notch consultants to join client teams to design and build awesome and useful apps. Our vision is to become Melbourne's most loved maker of novel digital businesses.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;We&amp;rsquo;ve got a pretty nice reputation around town, with plenty of successful projects and happy customers.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;We place importance on working alongside people that we respect and can learn from, and believe in treating each other and our customers well. You&amp;rsquo;ll be joining a supportive environment where your opinion counts, and decisions are underpinned by a strong value system.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;If you thrive on learning and enjoy variety, you've come to the right place. Our Clients are made up of A-list dot-coms right through to start ups and ventures.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;So, why us?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;We offer a dang competitive salary package including profit share bonuses&lt;/li&gt;&lt;br /&gt;&lt;li&gt;We'll supply you with a new laptop (if you need one) and cover your mobile and internet bills&lt;/li&gt;&lt;br /&gt;&lt;li&gt;You're given a self development budget that you can spend on sharpening your skills + 5 professional development days&lt;/li&gt;&lt;br /&gt;&lt;li&gt;$500 on us annually to purchase learning materials like books and subscriptions&lt;/li&gt;&lt;br /&gt;&lt;li&gt;There's always something social happening at our HQ like yummy bagel fuelled brekkie's and board game nights&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Every month we reunite to celebrate company wins with drinks, laughter and bad jokes&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;Make sure you say a friendly hello with your application, we respond well to the human touch :-). We look forward to hearing from you.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Skills &amp;amp; Requirements&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Currently, we&amp;rsquo;re on the lookout for polyglot developers with around 5 years experience.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;We need you to have some commercial Ruby experience but we work on projects in numerous languages and frameworks.&lt;/p&gt;</description>
+      <pubDate>Wed, 16 May 2018 00:41:21 Z</pubDate>
+      <a10:updated>2018-05-16T00:41:21Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">155603</guid>
+      <link>https://stackoverflow.com/jobs/155603/full-stack-java-developers-alex-solutions?a=QbqUvaUHVXG</link>
+      <a10:author>
+        <a10:name>Alex Solutions</a10:name>
+      </a10:author>
+      <category>java</category>
+      <category>javascript</category>
+      <category>reactjs</category>
+      <category>amazon-web-services</category>
+      <category>cypher</category>
+      <title>Full Stack Java Developers at Alex Solutions (Melbourne, Australia)</title>
+      <description>&lt;p&gt;&lt;strong&gt;We are rapidly growing and are looking for talented software developers with a range of experience!&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;The Role:&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Full SDLC Design and Development using SCRUM framework and industry standards&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Understand and contribute to the technical solution from design through to code level&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&amp;nbsp;Skills and abilities:&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;High Proficiency in: Java, JavaScript, React, AWS and API development&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Knowledge of&amp;nbsp;graph database technology&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Nice to have: Scala, Angular.js, NoSQL, machine learning, SQL, Python, message queues, AWS, reactive &amp;amp; asynchronous programming&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+      <pubDate>Mon, 23 Apr 2018 02:38:55 Z</pubDate>
+      <a10:updated>2018-04-23T02:38:55Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">182871</guid>
+      <link>https://stackoverflow.com/jobs/182871/are-you-a-master-of-microsoft-azure-stack-for-enett?a=ZkpGhITkhK8</link>
+      <a10:author>
+        <a10:name>eNett</a10:name>
+      </a10:author>
+      <category>azure</category>
+      <category>automation</category>
+      <category>jenkins</category>
+      <category>sysadmin</category>
+      <title>Are you a Master of Microsoft Azure Stack for DevOps? at eNett (Melbourne, Australia)</title>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;We&amp;rsquo;re rapidly growing. Keeping ahead of the game and always remaining innovative is highly important for us.&amp;nbsp; Now, we're looking for&amp;nbsp;an awesome DevOps Engineer to come on board.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;You&amp;rsquo;ll be challenged to take risks, to improve our current systems and platforms. We&amp;rsquo;ll give you the opportunity to influence the adoption of a DevOps mindset for a global fintech leading the way in travel payments.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;About You&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;You live and breathe automation&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Pitching new technologies and processes to a team is your idea of fun&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Engineering Effectiveness isn't just a good idea: you can explain its business value.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;You have strong software engineering skills&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+      <pubDate>Tue, 08 May 2018 01:55:13 Z</pubDate>
+      <a10:updated>2018-05-08T01:55:13Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">144141</guid>
+      <link>https://stackoverflow.com/jobs/144141/mid-level-senior-developers-and-tech-leads-greensync?a=Ml6zPN57uKI</link>
+      <a10:author>
+        <a10:name>GreenSync</a10:name>
+      </a10:author>
+      <category>ruby-on-rails</category>
+      <category>javascript</category>
+      <category>ruby</category>
+      <category>coffeescript</category>
+      <category>java</category>
+      <title>Mid-Level, Senior Developers and Tech Leads - Ruby, JavaScript, Polyglot at GreenSync (Melbourne, Australia)</title>
+      <description>&lt;p&gt;GreenSync are growing and have opportunities for Developers of all levels as well Technical Team Leads.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;We are looking for people to work on real life problems and find solutions that effect change to the future of energy in Australia and around the world.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Here are a few reasons that you might find a role at GreenSync interesting:&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;You&amp;rsquo;ll be making the world a better place by helping the grid utilise energy and infrastructure more effectively so we can rely less on old technologies such as coal&lt;/li&gt;&lt;br /&gt;&lt;li&gt;You&amp;rsquo;ll be working on interesting technical challenges and solving interesting algorithmic problems&lt;/li&gt;&lt;br /&gt;&lt;li&gt;You&amp;rsquo;ll be working for a well established and growing start up that can affect change in the real world.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;You&amp;rsquo;ll get to work with a passionate team who love what they do.&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;What you&amp;rsquo;ll be doing:&lt;/p&gt;&lt;br /&gt;&lt;p&gt;You&amp;rsquo;ll be working on our cloud-based suite of products, building tools for automation, data management, analytics, forecasting and optimisation. It&amp;rsquo;s a complex business domain in a rapidly changing area, so you&amp;rsquo;ll be having plenty of design discussions, building things from scratch and applying existing technology in new ways. You&amp;rsquo;ll be part of a tight-knit team that moves fast, but also values peer-review and quality highly. We do weekly releases, continuous integration and have a pull-request-oriented peer-reviewed workflow. Continuous improvement is a key priority at GreenSync, and you&amp;rsquo;ll have input into both the product and the process.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Working here you can expect to work with some or all of the following:&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Ruby with and without Rails&lt;/li&gt;&lt;br /&gt;&lt;li&gt;CoffeeScript/Javascript, Angular.js and d3.js&lt;/li&gt;&lt;br /&gt;&lt;li&gt;SaSS/CSS, HTML5&lt;/li&gt;&lt;br /&gt;&lt;li&gt;MySQL&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Git and GitHub-based workflows&lt;/li&gt;&lt;br /&gt;&lt;li&gt;RSpec, Cucumber, Watir-Webdriver, SimpleCov&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Rackspace Cloud and AWS&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Chef, Capistrano and devops ideas in general&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Management of medium to large datasets&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Stream processing, analytics, optimisation problems&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Algorithm optimisation, and immutable data structures&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Security&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Embedded Java technologies&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;And we&amp;rsquo;re open to hearing your recommendations too.&lt;/p&gt;</description>
+      <pubDate>Mon, 23 Apr 2018 11:39:31 Z</pubDate>
+      <a10:updated>2018-04-23T11:39:31Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">181278</guid>
+      <link>https://stackoverflow.com/jobs/181278/full-stack-developer-php-lucidity-software?a=YNi3gHoZnsA</link>
+      <a10:author>
+        <a10:name>Lucidity Software</a10:name>
+      </a10:author>
+      <category>php</category>
+      <category>angularjs</category>
+      <category>laravel</category>
+      <category>doctrine2</category>
+      <title>Full-Stack Developer (PHP) at Lucidity Software (Port Melbourne, Australia)</title>
+      <description>&lt;p&gt;You're&amp;nbsp;a friendly, talented full stack developer who wants to join&amp;nbsp;a growing team in&amp;nbsp;a growing company, Lucidity.&amp;nbsp;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;You have experience in full stack development in PHP with expertise in Laravel (Symfony / Zend FW 2) &amp;nbsp;frameworks&amp;nbsp;&lt;strong&gt;OR&amp;nbsp;&lt;/strong&gt;a very deep level of competency in a modern web language i.e. Ruby, Python, Java, with a willingness to get your hands dirty if needed on other projects, along with&amp;nbsp;JavaScript and HTML.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;We are a small team that punches above our weight with a commitment to automation and process improvement. While we are new to Scrum, we are committed to making it work. You love collaborating with others in the development team, and helping to ship compelling products.&amp;nbsp;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;We know you're experienced, but some of the things we'd love you to have:&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;&lt;br /&gt;&lt;p&gt;Advanced capabilities as a software developer, with minimum 3+ years experience using PHP / Ruby / Python/ Java, JavaScript (Angular JS / Angular 2)&lt;/p&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;br /&gt;&lt;p&gt;Experience in responsive design and hybrid mobile apps using (NativeScript / ReactJS / Titanium) a big plus&lt;/p&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;br /&gt;&lt;p&gt;Excellent communication skills a must, as this role includes some client contact&lt;/p&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;br /&gt;&lt;p&gt;Experience working in a Scrum / Agile environment&lt;/p&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;br /&gt;&lt;p&gt;Understanding of Cloud services and infrastructure - AWS and tools like Jenkins, Docker, Microservice architectures.&lt;/p&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Good verbal and written communication skills and people skills&amp;nbsp;&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;We're not Google or Facebook (although you get a day off for your birthday, as much Coke Zero as you can drink, and there is a ping pong table). What we do offer is equity in ideas, and a friendly team with a sense of humour. We will listen to you, and you will help us continue to develop a great product.&lt;/p&gt;</description>
+      <pubDate>Tue, 08 May 2018 01:22:29 Z</pubDate>
+      <a10:updated>2018-05-08T01:22:29Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Port Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">187712</guid>
+      <link>https://stackoverflow.com/jobs/187712/not-looking-to-move-but-keen-to-keep-in-touch-enett?a=10X4uRkJvAIM</link>
+      <a10:author>
+        <a10:name>eNett</a10:name>
+      </a10:author>
+      <category>c#</category>
+      <category>asp.net</category>
+      <category>sql-server</category>
+      <category>jira</category>
+      <category>jenkins</category>
+      <title>Not looking to move, but keen to keep in touch? Join our Talent Community Today. at eNett (Melbourne, Australia)</title>
+      <description>&lt;p&gt;&lt;strong&gt;The 'About Us' Bit&lt;/strong&gt; &lt;br&gt;&lt;br&gt;We&amp;rsquo;re B2B payments game changers. Our products are innovative. Our service is fast. Our customers&amp;rsquo; transactions are safe. And we&amp;rsquo;re easy to deal with.&amp;nbsp; &lt;br&gt;&lt;br&gt;We listen to our customers and fix things that should work better. Our lower cost payment solutions provide a better experience and help them grow.&amp;nbsp; &lt;br&gt;&lt;br&gt;Our secure Virtual Account Numbers (VANs) allow travel agencies to generate a unique Mastercard number and pay suppliers from within their booking flow. Our exclusive, long-term partnership with Mastercard provides access to the world&amp;rsquo;s fastest payments processing network and means VANs are accepted wherever a Mastercard is online. &lt;br&gt;&lt;br&gt;We&amp;rsquo;re majority owned by Travelport, which is listed on the New York Stock Exchange, and our VANs are seamlessly integrated into its Travel Commerce Platform. &lt;br&gt;&lt;br&gt;Further strengthened by our global banking services partner and shareholder Optal, eNett&amp;rsquo;s fast, easy and safe payments solutions are relieving the pain of payments for the global travel industry.&amp;nbsp; &lt;br&gt;&lt;br&gt;&lt;strong&gt;Become an "official" unofficial person of eNett by joining our Talent Community.&lt;/strong&gt; &lt;br&gt;&lt;br&gt;Do you love what we're all about here at eNett but can't find a suitable role opening right now? This is your chance to show your interest in us. If you want to become part of a growing community, be first in line for open roles or just find out more about eNett, drop us your CV here. &lt;br&gt;&lt;br&gt;&lt;strong&gt;What type of positions do we have in our team?&lt;/strong&gt; &lt;br&gt;&lt;br&gt;Developers&amp;nbsp; &lt;br&gt;QA Engineer&amp;nbsp; &lt;br&gt;System Administrators&amp;nbsp; &lt;br&gt;Database Administrators &lt;br&gt;Data Engineers &lt;br&gt;SQL Developers &lt;br&gt;BI Engineers &lt;br&gt;Project Managers &lt;br&gt;Business Analyst&lt;/p&gt;</description>
+      <pubDate>Tue, 22 May 2018 00:30:37 Z</pubDate>
+      <a10:updated>2018-05-22T00:30:37Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">185365</guid>
+      <link>https://stackoverflow.com/jobs/185365/come-and-push-the-boundaries-as-an-enett-enett?a=10agQgBnnZ3W</link>
+      <a10:author>
+        <a10:name>eNett</a10:name>
+      </a10:author>
+      <category>c#</category>
+      <category>sql</category>
+      <category>agile</category>
+      <category>asp.net</category>
+      <category>jira</category>
+      <title>Come and push the boundaries as an eNett Developer, leading the way in payments. at eNett (Melbourne, Australia)</title>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;An eNett developer is more than just a software wizard. Our developers are bold and aren&amp;rsquo;t limited to our office walls. You&amp;rsquo;ll be challenged to take risks and innovate, so that you can help improve our current systems and platforms. There&amp;rsquo;s never a dull moment for eNett developers, who work at a tirelessly to push the boundaries and continually look for new ways to satisfy the needs of our customers.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;What type of tech do our Developers work with? C#; ASP.NET; Microsoft Stack &amp;ndash; Windows 10, SQL server &amp;amp; Visual Studio 2017; Jira; Jenkins &amp;hellip; just to give you a taste. Our platform utilises a service-oriented architecture, with multiple APIs and WCF services.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Do you think you can be an eNett Dev? Get ready to go beyond the call of duty, finding awesome ways to improve our products and bringing your ideas to the table.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;What you&amp;rsquo;ll be doing&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Produce quality C#.NET code that&amp;rsquo;s robust and easy to maintain&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Write an optimise SQL queries and stored procedures&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Maintain software &amp;ndash; Identifying and fixing bugs&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Develop product knowledge and actively contribute to new products/features in an agile environment&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;What you&amp;rsquo;ll bring&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Demonstrated ability to construct software, using established design and architectural including reusable design &amp;amp; S.O.L.I.D principles&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Proven experience with software development tools, including workflow and work management systems, integrated development environments &amp;amp; version control systems&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Expertise in development practices &amp;ndash; branching &amp;amp; merging code, test driven development and agile methodology&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Willingness to learn and think outside the box&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+      <pubDate>Sun, 13 May 2018 23:26:59 Z</pubDate>
+      <a10:updated>2018-05-13T23:26:59Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">171492</guid>
+      <link>https://stackoverflow.com/jobs/171492/senior-sitecore-developer-net-c-sharp-mvc-hays-plc?a=VvOlCTJL0TS</link>
+      <a10:author>
+        <a10:name>Hays plc</a10:name>
+      </a10:author>
+      <category>.net</category>
+      <category>asp.net</category>
+      <category>sitecore</category>
+      <category>sitecore8</category>
+      <title>Senior Sitecore Developer - .NET, C#,  MVC, at Hays plc (Melbourne, Australia)</title>
+      <description>&lt;p&gt;My client AKQA,, a global digital agency based in Melbourne CBD is seeking to engage with an experienced Sitecore Developer to work on a range of industry leading projects with a variety of clients.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Located in Melbourne, as part of AKQA you&amp;rsquo;ll work in a meritocratic culture, surrounded by some of the brightest minds in their fields. You&amp;rsquo;ll also have the opportunity to learn and grow within a creative and technically advanced team, and have access to ongoing personal and professional development. AKQA are committed to both your career growth and your work/life balance.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&amp;nbsp;ROLE REQUIREMENTS&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Expertise in all things ASP.NET/MVC and C#.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience developing highly maintainable Sitecore platforms.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;A track record of delivering exceptional work.&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;QUALIFICATIONS AND CHARACTERISTICS&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Technically excellent programmer with a deep understanding of software engineering principles.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Sharp attention to detail and a passion for new technology.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Collaborative &amp;lsquo;one team&amp;rsquo; approach that enables client and agency partners to work together seamlessly.&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+      <pubDate>Sun, 20 May 2018 06:09:51 Z</pubDate>
+      <a10:updated>2018-05-20T06:09:51Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">172663</guid>
+      <link>https://stackoverflow.com/jobs/172663/junior-web-developer-hays-plc?a=VU9X6s4nTgY</link>
+      <a10:author>
+        <a10:name>Hays plc</a10:name>
+      </a10:author>
+      <category>c#</category>
+      <category>.net</category>
+      <category>javascript</category>
+      <category>sql</category>
+      <title>Junior Web Developer at Hays plc (Melbourne, Australia)</title>
+      <description>&lt;p&gt;My client Twist Of Lime are looking for a Junior .Net Developer to join their talented team.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;The ideal candidate would be someone who can work well as part of a team as well as leading from the front, taking a project on, planning the best technical route and then executing with poise and skill to achieve the best possible results.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;The role is a great opportunity to work within an innovative, forward thinking company, be exposed to leading edge technologies and have the support to develop beyond your existing areas of knowledge.&amp;nbsp;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&amp;nbsp;&lt;strong&gt;Ideally you will have solid experience in:&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;C#&lt;/li&gt;&lt;br /&gt;&lt;li&gt;ASP.NET&lt;/li&gt;&lt;br /&gt;&lt;li&gt;JavaScript, jQuery&lt;/li&gt;&lt;br /&gt;&lt;li&gt;HTML5, XML, CSS3&lt;/li&gt;&lt;br /&gt;&lt;li&gt;SQL Server 2014 or&amp;nbsp;newer&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Debugging and testing&amp;nbsp;&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Would be an advantage if you had experience with:&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;SOAP, WebAPI&lt;/li&gt;&lt;br /&gt;&lt;li&gt;MVC&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Angular2+, TypeScript&lt;/li&gt;&lt;br /&gt;&lt;li&gt;SVN&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;Please apply if you are keen to join an exciting company with an excellent career plan.&lt;/p&gt;</description>
+      <pubDate>Fri, 04 May 2018 04:36:56 Z</pubDate>
+      <a10:updated>2018-05-04T04:36:56Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">173638</guid>
+      <link>https://stackoverflow.com/jobs/173638/senior-developer-magenta-linas-software?a=WeqSJ8TLjqM</link>
+      <a10:author>
+        <a10:name>Magenta Linas Software</a10:name>
+      </a10:author>
+      <category>c#</category>
+      <category>react</category>
+      <category>asp.net-mvc</category>
+      <category>ms-sql-server</category>
+      <category>asp.net-core</category>
+      <title>Senior Developer at Magenta Linas Software (Melbourne, Australia)</title>
+      <description>&lt;p&gt;An exciting&amp;nbsp;opportunity for an experienced developer to join a great team in a dynamic, fast paced, and&amp;nbsp; growing organisation.&amp;nbsp;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;The ideal candidate for the full-time position would have the following skills:&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;ASP.NET MVC and C#&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Knowledge of data access in .NET world (EF OR raw ADO.NET or Dapper)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Competency in JavaScript, Typescript&lt;/li&gt;&lt;br /&gt;&lt;li&gt;A good grasp of the current front-end technology landscape (react, webpack desirable)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Privacy &amp;amp; security understanding&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Understanding of automated testing&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Good knowledge relational databases 101 (PK, FK, Indexes, Identity)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Knowledge of source control&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;Magenta Linas is experiencing a phase of growth as we diversify our client base and offering, and we&amp;rsquo;re looking for an enthusiastic and experienced developer to join our team.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;This is an opportunity to grow your skills in design and implementation, enhance current and new products, and be creative.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Located on Bourke Street, Melbourne the office is close to public transport.&lt;/p&gt;</description>
+      <pubDate>Sun, 13 May 2018 20:34:57 Z</pubDate>
+      <a10:updated>2018-05-13T20:34:57Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">171777</guid>
+      <link>https://stackoverflow.com/jobs/171777/senior-net-developer-net-angularjs-aspnet-hays-plc?a=VBJL3t9gEYE</link>
+      <a10:author>
+        <a10:name>Hays plc</a10:name>
+      </a10:author>
+      <category>.net</category>
+      <category>angularjs</category>
+      <category>asp.net</category>
+      <category>model-view-controller</category>
+      <title>Senior .NET Developer -.NET, AngularJs, ASP.NET MVC, HTML, CSS at Hays plc (Melbourne, Australia)</title>
+      <description>&lt;p&gt;My Client Tigerppike based in Melbourne&amp;nbsp;is looking for a &lt;strong&gt;Senior&lt;/strong&gt;&amp;nbsp;&lt;strong&gt;Software Engineer (.Net)&lt;/strong&gt;&amp;nbsp;who is excited to work alongside a talented group of innovators to create digital products.&amp;nbsp; Being a part of the conversation from the start, you will&amp;nbsp;lead full lifecycle&amp;nbsp;projects including guiding technical scoping, design and implementation. Collaborating with UX &amp;amp; UI designers, researchers and other engineers (web &amp;amp; mobile), you will have the ability to flex your .Net&amp;nbsp;chops to help shape, design and build digital products that help solve key business needs.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;You'll be joining a team of smart and passionate people to solve challenging and interesting problems using the latest technologies. If you are excited to learn new things and thrive in a team-based culture where you have a lot of fun along the way, then Tigerspike could be the place for you!&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;Key Features&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Solid background in ASP/.Net development&lt;/li&gt;&lt;br /&gt;&lt;li&gt;An understanding&amp;nbsp;of distributed systems and asynchronous communication&amp;nbsp;in&amp;nbsp;the context of microservices&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience in configuration of cloud infrastructure, ideally with F# for serverless functions&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience with&amp;nbsp;Javascript/jQuery or any other libraries/frameworks&lt;/li&gt;&lt;br /&gt;&lt;li&gt;In addition to RavenDB and&amp;nbsp;Azure SQL Database&lt;/li&gt;&lt;br /&gt;&lt;li&gt;This will all see you working with other first class Software&amp;nbsp;Engineers in&amp;nbsp;design,&amp;nbsp;production and knowledge sharing.&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;Production Stack Synopsis&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;.Net, Microsoft IIS &amp;amp; SQL Server&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Azure cloud hosting as mentioned above, also AWS for DNS management&lt;/li&gt;&lt;br /&gt;&lt;li&gt;HTML, Javascript, jQuery&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Git, NPM, Webpack&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Consumed APIs: Twilio, Paypal, Postman, Sendgrid, Google Analytics&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Other: Slack, Jira, Zendesk, Invision&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;If you are looking for the next challenge in your career, please apply.&lt;/p&gt;</description>
+      <pubDate>Sun, 22 Apr 2018 05:00:21 Z</pubDate>
+      <a10:updated>2018-04-22T05:00:21Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">171060</guid>
+      <link>https://stackoverflow.com/jobs/171060/senior-full-stack-developer-net-angularjs-hays-plc?a=VmPqObcjha8</link>
+      <a10:author>
+        <a10:name>Hays plc</a10:name>
+      </a10:author>
+      <category>.net</category>
+      <category>angularjs</category>
+      <category>c#</category>
+      <category>html</category>
+      <title>Senior Full Stack Developer - .NET, AngularJs, ASP.NET MVC, HTML, CSS at Hays plc (Melbourne, Australia)</title>
+      <description>&lt;p&gt;My key client Telstra Health provides technology solutions and services that help improve the delivery of health services in Australia, and better connect healthcare providers with patients and with each other. It&amp;rsquo;s our mission to be the technology provider of choice for the Australian healthcare sector so as to provide better care for patients.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Hays Digital Technology are working in partnership with Telstra Health to find a skilled and passionate Developer. The principal purpose of the role is to take a leading role developing software applications that are robust, scalable and meet both functional and non-functional requirements.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Competencies&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;C# .Net development&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Web development skills including AngularJs, ASP.NET MVC, HTML, CSS, JavaScript frameworks&lt;/li&gt;&lt;br /&gt;&lt;li&gt;User experience design &amp;ndash; at least some work experience in this area would be good&lt;/li&gt;&lt;br /&gt;&lt;li&gt;SQL Server or similar large-scale relational databases&lt;/li&gt;&lt;br /&gt;&lt;li&gt;TFS/GIT/ bitbucket&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Microsoft Azure&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Focus on application architecture, system and database design, and use of design patterns&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Problem solving skills&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Commitment to success and to quality&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Unit testing and test-driven development&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;The team is passionate about coding, so any additional experience with other technologies will be beneficial but by no means essential. I'm keen to hear from people with strong .NET experience that want to work in an innovative team that has invested, and continues to invest, in the latest tech.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Telstra Health are offering:&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Base salary of $105,000 to $115,000 plus Super&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Discretionary bonus arrangements&lt;/li&gt;&lt;br /&gt;&lt;li&gt;20 days holiday. You can also by additional days through their flexible benefits scheme&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Share Incentive Plan&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Life assurance &amp;amp; Income Protection&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Health and wellbeing plans&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Other corporate flexible benefits, such as childcare vouchers and charitable giving&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+      <pubDate>Mon, 14 May 2018 23:42:28 Z</pubDate>
+      <a10:updated>2018-05-14T23:42:28Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">172664</guid>
+      <link>https://stackoverflow.com/jobs/172664/senior-umbraco-developer-net-hays-plc?a=VUbf1YBL3R6</link>
+      <a10:author>
+        <a10:name>Hays plc</a10:name>
+      </a10:author>
+      <category>.net</category>
+      <category>c#</category>
+      <category>asp.net</category>
+      <category>umbraco</category>
+      <title>Senior Umbraco Developer - .NET at Hays plc (Port Melbourne, Australia)</title>
+      <description>&lt;p&gt;My key client Full House Group helps pubs and clubs become the social hub of their community. They are the market leader in their niche. Their current range of products and services include poker tournaments, trivia nights, footy tipping competitions and sports bar marketing tools. They are seeking a senior .net developer to help scale our systems and our products.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Purpose&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;To lead and assist in the development software for the various brands of Full House Group&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Tasks: &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Successful implementation of Full House Group&amp;rsquo;s Poker websites using Umbraco CMS framework&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Maintain and develop Online TED, an internal registration and tournament software used in the conduct of our poker tournaments&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Delivery of other projects as directed&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Skills required&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;At least 3 years experience in web based projects with C#, ASP.NET, MVC, Web API 2.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience in developing Umbraco based websites is a must.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Good working knowledge on client side programming, HTML5, CSS3, Javascript/JQuery/AngularJS, AJAX&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Proficient with at least one of the frameworks (Bootstrap, Foundation, Semantic UI, Materialize CSS etc.)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Ability to build responsive web applications for different devices and resolving cross-browser compatibility issues&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Solid understanding on Database and with MSSQL Server and ability to write complex SQL query, stored procedure, trigger and function&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience on creating and integrating RESTFul API and webservices&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Desired &lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Mobile App development skills using Ionic/React Native&lt;/li&gt;&lt;br /&gt;&lt;li&gt;AWS Web server administration experience&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+      <pubDate>Fri, 04 May 2018 05:10:34 Z</pubDate>
+      <a10:updated>2018-05-04T05:10:34Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Port Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">163280</guid>
+      <link>https://stackoverflow.com/jobs/163280/senior-microsoft-net-developer-uxc-eclipse?a=SL3Mn9kLjyg</link>
+      <a10:author>
+        <a10:name>UXC Eclipse</a10:name>
+      </a10:author>
+      <category>javascript</category>
+      <category>sql</category>
+      <category>sql-server</category>
+      <category>.net</category>
+      <title>Senior Microsoft .NET Developer at UXC Eclipse (Melbourne, Australia)</title>
+      <description>&lt;p&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;br&gt;Due to continuous growth we are currently looking for a Senior Developer to join our CBD based product team. This role will be providing software maintenance and development services to both internal and external clients.&lt;br&gt;&lt;br&gt;Specific responsibilities will include:&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Design and implement new RockSolid components&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Maintain and improve current RockSolid solutions&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Maintain and improve customer systems designed by RockSolid team&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Assist in RockSolid software testing&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Document current system design&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;br&gt;&lt;strong&gt;About you&lt;/strong&gt;&lt;br&gt;To be successful in this role you will be an experienced software developer and have worked in customer facing consulting roles. You have strong skills in full stack Microsoft .Net development technologies along with some exposure to JavaScript &amp;amp; HTML.&lt;br&gt;&lt;br&gt;Typically tertiary qualified you have previous experience in designing scalable / multi-threaded / high-performing / high-volume systems. You have a good understanding of data structure and system architecture. You are passionate about writing efficient code and continually improving system performance.&lt;br&gt;&lt;br&gt;With strong communication (both oral and written) skills &amp;nbsp;you are able to build effective working relationships with internal and external stakeholders. You are self-motivated and are able to work independently.&lt;/p&gt;</description>
+      <pubDate>Sat, 12 May 2018 22:12:58 Z</pubDate>
+      <a10:updated>2018-05-12T22:12:58Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">180704</guid>
+      <link>https://stackoverflow.com/jobs/180704/senior-developer-work-with-cutting-edge-tech-a-cloud-guru?a=YBm4HsqtoYw</link>
+      <a10:author>
+        <a10:name>A Cloud Guru</a10:name>
+      </a10:author>
+      <category>serverless</category>
+      <category>angular</category>
+      <category>reactjs</category>
+      <category>amazon-web-services</category>
+      <category>git</category>
+      <title>Senior Developer - work with cutting edge tech while making a difference! at A Cloud Guru (Melbourne, Australia)</title>
+      <description>&lt;p&gt;&lt;strong&gt;A Cloud Guru&lt;/strong&gt; is the world's leading provider of online IT education. We focus on providing high-quality, affordable and engaging on-demand video courses to hundreds of thousands of professionals. We help our students learn new skills, gain valuable industry certifications, and excel in their careers. We have trained over 550,000 students, and this is just the beginning.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;We have ambitious goals for the year ahead, and we need a Senior Software Developer to join the team to help reach them.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What we are looking for&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Your mission as a Senior Software Developer is to help deliver amazing products by driving technical excellence within the team. Your role as a Senior Software Developer will see you working with others inside and outside your team to deliver for our customers and our business. You're someone that enjoys taking ownership of problems and working to deliver projects including non-technical delivery.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;You enjoy playing a part in helping set technical direction and guiding others in the team. You're also a creative and open-minded person that really loves what they do and takes pride in their work supporting the team.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Being able to collaborate with others on projects is as important to us as your ability to write code.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;From the get-go, you'll have to be proficient with:&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Developing single page applications (Angular or ReactJS is preferable)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Building modular and maintainable server-side code (NodeJS is preferable)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Writing unit and integration tests&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Developing and deploying applications on AWS&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Using a version control system (Git is preferable)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Most importantly you need to be willing to experiment, fail, learn and try again!&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Our wish list&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;We practice what we preach - we're a completely Serverless application deployed on AWS. We would love if you have experience with Serverless applications and AWS (this would be phenomenal), but it&amp;rsquo;s not essential.&amp;nbsp;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;You just need to have a passion for learning and be open to becoming acquainted with:&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;CloudFormation, AWS Lambda, API Gateway, DynamoDB and DynamoDB Streams&lt;/li&gt;&lt;br /&gt;&lt;li&gt;The Serverless Framework&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Microservices with AWS Lambda&lt;/li&gt;&lt;br /&gt;&lt;li&gt;GraphQL&lt;/li&gt;&lt;br /&gt;&lt;li&gt;SQL and AWS Redshift&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Firebase&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;If that all sounds a bit daunting, don't let it stop you from applying. As a training provider, we strongly believe in giving people the opportunity to learn &amp;ndash; in fact we encourage it!&lt;/p&gt;&lt;br /&gt;&lt;p&gt;We know that supporting you and investing in your development so that you can be an effective part of our team...well it&amp;rsquo;s just good business sense!&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Working with us &lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Our people matter to us. We know everyone has family and friends and for that reason our employees receive&amp;nbsp;5 weeks of leave each year.&amp;nbsp;We understand that time away from work is important and we know well-rested and well-rounded people make better decisions...and ultimately are more productive when at work! We pay commensurate with experience and we make sure you&amp;rsquo;re looked after.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Our crew &lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Our team is spread across the globe - mainly the US and Australia. Our engineers and designers work together out of our office in Melbourne, Australia.&amp;nbsp;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;For this position we will need you to join our team in our offices on Queen Street, Melbourne. We prefer hands on collaboration so this position is not available for remote workers.&amp;nbsp;Unfortunately we're unable to sponsor people into Australia at this time. We are a fast-growing team with big ambitions. We need people who can help us build a solid foundation for the future. If you want to make a difference in a fast-growing team, now is the time to join.&lt;/p&gt;</description>
+      <pubDate>Tue, 01 May 2018 05:39:42 Z</pubDate>
+      <a10:updated>2018-05-01T05:39:42Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">173433</guid>
+      <link>https://stackoverflow.com/jobs/173433/node-javascript-developer-milestone-it?a=WaaBwyy9jYk</link>
+      <a10:author>
+        <a10:name>Milestone IT</a10:name>
+      </a10:author>
+      <category>reactjs</category>
+      <category>javascript</category>
+      <category>css</category>
+      <category>node.js</category>
+      <category>node-modules</category>
+      <title>Node / Javascript Developer at Milestone IT (Melbourne, Australia)</title>
+      <description>&lt;p&gt;Milestone IT is&amp;nbsp;an industry leader in the provision of the highest quality software engineers. Right now,&amp;nbsp; we are seeking 2 developers&amp;nbsp;to work on-site delivering Backend Microservices in Node.&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;br&gt;What do you need for these ones?&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Demonstrated experience delivering in React or React Native - if you don't have React Native, this is a great opportunity to learn&amp;nbsp;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Proven experience in end-to-end app development, with a natural flair for UX (PHP, HTML5, JavaScript, Node, CSS and/or equivalents)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience in best practice UI and responsive design with a passion for detail and aesthetics&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience in rapid prototyping within frameworks such as React.js or React Native&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Understanding of designing and developing microservices&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Understanding of DevOps, Continuous Delivery and Lean Start-up principles&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience managing applications on Amazon Web Services is held in high regard&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience integrating chatbots and/or virtual assistants is a plus&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Examples of work on GitHub is highly regarded&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Redux, React, Angular, Node, etc etc.&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;If you want to be a part of this exciting and high-octane time, with a great business who has great people than this is an opportunity you need to explore further...&lt;/p&gt;</description>
+      <pubDate>Sat, 19 May 2018 02:12:48 Z</pubDate>
+      <a10:updated>2018-05-19T02:12:48Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">184391</guid>
+      <link>https://stackoverflow.com/jobs/184391/javascript-technical-lead-milestone-it?a=ZQ1czr5nJug</link>
+      <a10:author>
+        <a10:name>Milestone IT</a10:name>
+      </a10:author>
+      <category>javascript</category>
+      <category>reactjs</category>
+      <category>node.js</category>
+      <category>bootstrap-4</category>
+      <title>Javascript technical lead at Milestone IT (Caulfield East, Australia)</title>
+      <description>&lt;p&gt;Milestone IT has partnered with this established&amp;nbsp;Australian&amp;nbsp;company who've attained phenomenal success over the&amp;nbsp;last&amp;nbsp;few years and are right now building upon their success by scaling out the engineering team for new product and feature builds.&amp;nbsp;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;As such, we present you with a unique opportunity for an experienced leader with deep javascript&amp;nbsp;knowledge, to head up a small team of talented engineers. You'll still be predominantly hands on coding, but also&amp;nbsp;responsible&amp;nbsp;for technical&amp;nbsp;&lt;strong&gt;decision making&lt;/strong&gt;, mentoring, participating in&amp;nbsp;&lt;strong&gt;architecture&lt;/strong&gt;, overseeing&amp;nbsp;&lt;strong&gt;delivery&lt;/strong&gt;&amp;nbsp;time lines.&amp;nbsp;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;About this role :&amp;nbsp; The management team in this business are truly outstanding individuals with strong ethics, desire to deliver and an ability to support their people. This role requires someone who wants to build brilliant software, understands how javascript can be used in serverless environments and enjoys mentoring, leading and coaching others.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;br&gt;&lt;strong&gt;Who are you?&lt;/strong&gt;&lt;br&gt;This opportunity is working with &amp;nbsp;&lt;strong&gt;React&lt;/strong&gt;&amp;nbsp;and&amp;nbsp;&lt;strong&gt;Node&lt;/strong&gt;&amp;nbsp;predominantly, but we don't mind what framework you know best at this point. As long as you can and want to always learn new skills&amp;nbsp;and have an ability to pick up new concepts.&amp;nbsp;&lt;br&gt;&lt;br&gt;You know how to get the best of the engineers round you, and are motivated to help others succeed. You know how to scope out work and time lines, and deliver accordingly. You know how to build a web app from scratch. You want to work in a company that cares about it's employees, and sets them up for success.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;If this sparks an interest, or if you're an engineer who loves JavaScript in all it's forms,&amp;nbsp;we'd love to talk to you.This is a brilliant role, with brilliant people who need a brilliant leader.&lt;br&gt;&lt;br&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 11 May 2018 03:12:53 Z</pubDate>
+      <a10:updated>2018-05-11T03:12:53Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Caulfield East, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">180705</guid>
+      <link>https://stackoverflow.com/jobs/180705/software-dev-lead-work-with-cutting-edge-tech-a-cloud-guru?a=YBnmCYXQzyE</link>
+      <a10:author>
+        <a10:name>A Cloud Guru</a10:name>
+      </a10:author>
+      <category>serverless</category>
+      <category>angular</category>
+      <category>reactjs</category>
+      <category>node.js</category>
+      <category>amazon-web-services</category>
+      <title>Software Dev Lead - work with cutting edge tech &amp; build life-changing products! at A Cloud Guru (Melbourne, Australia)</title>
+      <description>&lt;p&gt;&lt;strong&gt;A Cloud Guru&lt;/strong&gt; is the world's leading provider of online IT education. We focus on providing high-quality, affordable and engaging on-demand video courses to hundreds of thousands of professionals. We help our students learn new skills, gain valuable industry certifications, and excel in their careers. We have trained over 550,000 students, and this is just the beginning. We have visionary goals for the year ahead, and we're looking for a Software Development Lead to join the team to help us reach them.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What we're after&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Your mission as a Software Development Lead is to help deliver amazing products by driving technical excellence within the team. Your role as a Software Development Lead will see you leading and organising your team to deliver for our customers and our business. You're someone that enjoys taking ownership of problems and working to deliver projects including non-technical delivery.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;You enjoy playing a part in helping set technical direction and guiding others in the team. You're also a creative and open-minded person that really loves what they do and takes pride in their work supporting the team. Being able to collaborate with others on projects is as important to us as your ability to write code.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Leading a team means you'll be responsible for:&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Working with a product manager to organise sprints each fortnight&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Assigning tasks to team members. Being able to delegate effectively is critical&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Working with other teams in the business (product, support and more) on the non-technical aspects of delivery&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Helping build an awesome team by assisting the Head of Development during hiring process&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Mentoring and guiding your team members to help them succeed&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Leading your team through the ups and downs&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;From the get-go, the technical skills you'll have to be proficient with:&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Developing single page applications (Angular or ReactJS is preferable)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Building modular and maintainable server-side code (NodeJS is preferable)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Writing unit and integration tests&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Developing and deploying applications on AWS&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Using a version control system (Git is preferable)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Most importantly you need to be willing to experiment, fail, learn and try again!&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Our wish list&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;We practice what we preach - we're a completely Serverless application deployed on AWS. We would love if you have experience with Serverless applications and AWS (this would be phenomenal), but it&amp;rsquo;s not essential.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;You just need to have a passion for learning and be open to becoming acquainted with:&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;CloudFormation, AWS Lambda, API Gateway, DynamoDB and DynamoDB Streams&lt;/li&gt;&lt;br /&gt;&lt;li&gt;The Serverless Framework&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Microservices with AWS Lambda&lt;/li&gt;&lt;br /&gt;&lt;li&gt;GraphQL&lt;/li&gt;&lt;br /&gt;&lt;li&gt;SQL and AWS&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Redshift&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Firebase&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;If that all sounds a bit daunting, don't let it stop you from applying. As a training provider we strongly believe in giving people the opportunity to learn &amp;ndash; in fact we encourage it! We know that supporting you and investing in your development so that you can be an effective part of our team...well it&amp;rsquo;s just good business sense!&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Working with us&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Our people matter to us. We know everyone has family and friends and for that reason our employees receive&amp;nbsp;5 weeks of leave each year.&amp;nbsp;We understand that time away from work is important and we know well-rested and well-rounded people make better decisions...and ultimately are more productive when at work! We pay commensurate with experience and we make sure you&amp;rsquo;re looked after.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Our crew&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Our team is spread across the globe - mainly the US and Australia. Our engineers and designers work together out of our office in Melbourne, Australia. For this position we will need you to join our team in our offices on Queen Street, Melbourne. We prefer hands on collaboration so this position is not available for remote workers.&amp;nbsp;Unfortunately we're unable to sponsor people into Australia at this time.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;We are a fast-growing team with big ambitions. We need people who can help us build a solid foundation for the future. If you want to make a difference in a fast-growing team, now is the time to join.&lt;/p&gt;</description>
+      <pubDate>Tue, 01 May 2018 05:43:33 Z</pubDate>
+      <a10:updated>2018-05-01T05:43:33Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">184387</guid>
+      <link>https://stackoverflow.com/jobs/184387/senior-salesforce-developer-hays-plc?a=ZPW2RkVT39K</link>
+      <a10:author>
+        <a10:name>Hays plc</a10:name>
+      </a10:author>
+      <category>agile</category>
+      <category>salesforce</category>
+      <category>apex</category>
+      <category>json</category>
+      <category>force.com</category>
+      <title>Senior Salesforce Developer at Hays plc (Melbourne, Australia) (allows remote)</title>
+      <description>&lt;p&gt;&lt;strong&gt;Salesforce Developer&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;I'm currently working on my key client CitiPower, the leading electricity provider and central hub of Victoria, who are on the hunt for a talented Salesforce developer to join their expert team. This is a 6-month contract with an opportunity to extend.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Key Tasks&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;- Design &amp;amp; Build changes to our Salesforce applications and &lt;a href="https://protect-au.mimecast.com/s/qx3gCoVzGDTrg95psVDgOj?domain=force.com" rel="nofollow"&gt;force.com&lt;/a&gt; hosted web portals&lt;/p&gt;&lt;br /&gt;&lt;p&gt;- Refactor code that is required to change to improve our ability to maintain and diagnose issues&lt;/p&gt;&lt;br /&gt;&lt;p&gt;- The instance of Salesforce features large amounts of code and supports complex business processes&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Experience/Qualifications&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;- Extensive experience building Apex&amp;nbsp; / VisualForce solutions within the Salesforce CRM and &lt;a href="https://protect-au.mimecast.com/s/uZc2Cp8AJEcnVkqETGDpPG?domain=force.com" rel="nofollow"&gt;Force.com&lt;/a&gt; platform&lt;/p&gt;&lt;br /&gt;&lt;p&gt;- Experience utilising the Service Cloud for tracking complex workflow processes&lt;/p&gt;&lt;br /&gt;&lt;p&gt;- Experience building interfaces between Salesforce and other applications, utilising JSON data interchange&lt;/p&gt;&lt;br /&gt;&lt;p&gt;- Experience working in an agile software development process, utilising continuous integration pipelines&lt;/p&gt;&lt;br /&gt;&lt;p&gt;- Must work as a key team member within an agile software delivery team&lt;/p&gt;&lt;br /&gt;&lt;p&gt;- Preferred Salesforce developer certification&lt;/p&gt;</description>
+      <pubDate>Fri, 11 May 2018 00:16:45 Z</pubDate>
+      <a10:updated>2018-05-11T00:16:45Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">158348</guid>
+      <link>https://stackoverflow.com/jobs/158348/front-end-developer-bueno-systems?a=R6vEmMvztxS</link>
+      <a10:author>
+        <a10:name>Bueno Systems</a10:name>
+      </a10:author>
+      <category>reactjs</category>
+      <category>javascript</category>
+      <category>redux</category>
+      <category>rest</category>
+      <category>api-design</category>
+      <title>Front-End Developer at Bueno Systems (Melbourne, Australia)</title>
+      <description>&lt;p&gt;At BUENO, we have a talented group of software engineers who develop our core offering and attempt to play table tennis. We've been growing fast, and now we're looking for another front-end dev to help us visualise all the cool stuff our data science nerds find. This is a challenging but incredibly rewarding job, and requires the following traits:&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;&lt;br /&gt;&lt;p&gt;Strong proficiency in JavaScript (ES6), including DOM manipulation and the JavaScript object model&lt;/p&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;br /&gt;&lt;p&gt;Thorough understanding of React.js and its core principles&lt;/p&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;br /&gt;&lt;p&gt;Experience with popular React.js workflows (e.g. Flux or Redux)&lt;/p&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;br /&gt;&lt;p&gt;Familiarity with RESTful APIs&lt;/p&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;&lt;br /&gt;&lt;p&gt;A deep, abiding love of version control, test-driven development and issue tracking&lt;/p&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;br /&gt;&lt;p&gt;A willingness to try new things, be curious, and question everything&lt;/p&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;You'll also need to have or pick up a few skills on the job:&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;&lt;br /&gt;&lt;p&gt;React Native, Mobile App development&lt;/p&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;br /&gt;&lt;p&gt;Knowledge of building control and automation systems&lt;/p&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;If you have a background that includes at least some of the above, then it's likely that you have a lot of choices of how to spend your time. At BUENO we can offer you the chance to try a bunch of different things, work with cool new technologies, enjoy a great atmosphere and come along for the ride with us as we grow (and we're growing fast!).&amp;nbsp;&lt;/p&gt;</description>
+      <pubDate>Mon, 21 May 2018 22:01:06 Z</pubDate>
+      <a10:updated>2018-05-21T22:01:06Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">172046</guid>
+      <link>https://stackoverflow.com/jobs/172046/senior-devops-engineer-medipass?a=VHkxDDWNzJm</link>
+      <a10:author>
+        <a10:name>Medipass</a10:name>
+      </a10:author>
+      <category>linux</category>
+      <category>amazon-web-services</category>
+      <category>docker</category>
+      <category>security</category>
+      <category>automation</category>
+      <title>Senior Devops Engineer at Medipass (Melbourne, Australia)</title>
+      <description>&lt;p&gt;&lt;strong&gt;Senior Devops Engineer&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Medipass is seeking a Senior Devops Engineer to help us deliver compelling digital health experiences. Our Devops Engineers ensure that our systems are available, scalable and secure. We have a fantastic foundation with one step blue/green deployments, best in class tooling and a strong devops culture that encourages automation and continuous monitoring at every level. Our priority is to provide an environment with high availability, integrity and security; the Senior Devops Engineer will have operational ownership over this domain. &amp;nbsp;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;In this role, you will&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Own operational infrastructure: using AWS infrastructure and extended support services&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Lead and build development pipelines: using continuous integration and development tooling and methodologies&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Be responsible for operational security &amp;amp; risk: help coordinate external penetration tests, vulnerability assessments and review potential security issues&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Oversee performance, efficiency &amp;amp; scaling capabilities: contribute to the measurement techniques that assist in the performance tuning of the applications stack&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Ensure we have appropriate monitoring: to proactively identify issues and quickly respond to potential service degradation issues&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Our ideal candidate will have&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Extensive experience with Amazon Web Services&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience with Linux administration&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience building Docker images and maintaining containers and hosts&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience with infrastructure as code and related scripting (preferably Terraform)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Knowledge of infrastructure automation, monitoring and capacity planning&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience with continuous integration and deployment&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Knowledge of cloud security principles&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Thrive in a fast paced, yet autonomous environment&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Technologies you'll be working with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Infrastructure:&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Linux&lt;/li&gt;&lt;br /&gt;&lt;li&gt;MongoDB&lt;/li&gt;&lt;br /&gt;&lt;li&gt;AWS services&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Docker&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Terraform&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;Release engineering:&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Git&lt;/li&gt;&lt;br /&gt;&lt;li&gt;CI/CD tools&lt;/li&gt;&lt;br /&gt;&lt;li&gt;CodeClimate&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Artillery.io&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;Application:&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Node.js (hapi)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Kong&lt;/li&gt;&lt;br /&gt;&lt;li&gt;React, React Native&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;Monitoring:&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;DataDog&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Sentry.io&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Fabric&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+      <pubDate>Wed, 25 Apr 2018 22:55:49 Z</pubDate>
+      <a10:updated>2018-04-25T22:55:49Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">166130</guid>
+      <link>https://stackoverflow.com/jobs/166130/software-engineer-utilacor?a=TIjSERrRMk0</link>
+      <a10:author>
+        <a10:name>Utilacor</a10:name>
+      </a10:author>
+      <category>asp.net</category>
+      <category>vb.net</category>
+      <category>c#</category>
+      <category>iis</category>
+      <category>zigbee</category>
+      <title>Software Engineer at Utilacor (Hawthorn East, Australia)</title>
+      <description>&lt;p&gt;&lt;strong&gt;Job description&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;The opportunity&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;We are currently seeking a Software Engineer to join our Melbourne based operation. You will be part of a team that will look to the latest technology to implement systems using Windows embedded, zigbee for remote IO, OpenADR and latest web technologies using asp.net and IIS&amp;nbsp;&amp;nbsp; You will also work with a leading edge energy management system combining the latest available hardware platforms, custom electronics development and software tools. The key to this role is your ability to successfully transition across these disciplines, delivering great results in a timely manner.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Key responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Perform design and development&amp;nbsp;of assigned software related projects&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Research technologies and incorporates them into systems&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Tests, integrates, writes, troubleshoots, and debugs software applications&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Reviews, interprets, and executes software requirements and specifications&amp;nbsp;&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Skills, experience and qualifications envisaged for success&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Development and design of software using latest version of Visual Studio in vb.net and C#&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Development and coding of microcontrollers including but not limited to Arduino&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Creating design specifications for software&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Writing code to a design specification&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Diagnosing existing software to effectively correct and improve code&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Programming in JavaScript and html coding using Microsoft asp.net and IIS server&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Developing robust testing techniques ensuring design integrity&lt;/li&gt;&lt;br /&gt;&lt;li&gt;High level of communication (written and verbal), presentation and attention to detail&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Tertiary qualifications in the field of computer science&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+      <pubDate>Wed, 25 Apr 2018 05:18:54 Z</pubDate>
+      <a10:updated>2018-04-25T05:18:54Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Hawthorn East, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">172164</guid>
+      <link>https://stackoverflow.com/jobs/172164/ios-developer-hays-plc?a=VJMF7zsTIuA</link>
+      <a10:author>
+        <a10:name>Hays plc</a10:name>
+      </a10:author>
+      <category>ios</category>
+      <category>objective-c</category>
+      <category>swift</category>
+      <title>iOS Developer at Hays plc (Melbourne, Australia)</title>
+      <description>&lt;p&gt;&lt;strong&gt;Company Background:&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;My client Tigerspike is a global innovative digital product company focusing on strategy, Human centered design, development and integration of systems. Working with some of Australia&amp;rsquo;s largest clients.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Opportunity:&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Be part of a dynamic team working on with the latest mobile technology and stretching the boundaries to produce innovative designs and providing insights that their clients can use to make informed decisions.&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Great team culture&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Mobile phone allowance&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Annual personal and professional development training allowances&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Parental benefits that exceed statutory requirements&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Many opportunities to work in other global office locations&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Increased service annual leave&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Technical skills required (minimum 3-5 years)&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;The ideal candidate is expected to have a strong experience in mobility with software development skills&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Native iOS app development (Swift / Objective-C is beneficial)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Has a strong understanding of app security best practices&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Has a strong understanding of design principles, patterns and best practices&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Has previous experience integrating with JSON/RESTful APIs and authentication models&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Has previous experience working in an Agile environment&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Has previous experience working with designers and using design tools such as Invision, Zeplin, Freehand&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Can demonstrate a deep understanding and experience using source control such as GIT&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Other key attributes required&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Self started who likes to get involved in challenging and innovative work.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;You'll be joining a team of smart and passionate people to solve challenging and interesting problems using the latest technologies.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Excited to learn new things and thrive in a team-based culture.&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What&amp;rsquo;s on offer?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;An attractive package will be offered to the right individual. Given the start-up nature, you will have the ability to personally contribute to success and be rewarded for it.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;You have the world at your feet to make this your success story, provide leadership and deliver outstanding results. The reward for success will be rapid advancement opportunities.&lt;/p&gt;</description>
+      <pubDate>Thu, 26 Apr 2018 23:08:31 Z</pubDate>
+      <a10:updated>2018-04-26T23:08:31Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">170018</guid>
+      <link>https://stackoverflow.com/jobs/170018/ios-developer-drawboard?a=V1a81kiTpXG</link>
+      <a10:author>
+        <a10:name>Drawboard</a10:name>
+      </a10:author>
+      <category>ios</category>
+      <category>cocoa</category>
+      <category>objective-c</category>
+      <category>swift</category>
+      <category>xcode</category>
+      <title>iOS Developer at Drawboard (Melbourne, Australia) (allows remote)</title>
+      <description>&lt;p&gt;&lt;strong&gt;WHAT ARE YOUR RESPONSIBILITIES:&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;You will lead development of the app and have the ability to write highly performant code. You will rapidly prototype and work closely with our designers to iterate through multiple phases of user testing, while also working closely with developers across all teams (particularly the cloud devs).&lt;/p&gt;&lt;br /&gt;&lt;p&gt;As an iOS Engineer, you will tackle difficult and interesting challenges for the iOS app with enthusiasm. Particularly related to:&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Creating real-time collaboration and markup software for construction documents.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Work closely with the other Bullclip clients to ensure the functionality is consistent and integrates with all platforms.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Participation in design workshops and feature kick-offs to ensure we are working towards an achievable development goal.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Build and iterate quickly on new features to optimise user value as quickly as possible.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Building slick and responsive UI that can handle millions of user-generated data points (like photos and annotations)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Utilizing native iOS tools to develop an experience that can effectively replace pen and paper workflows (both iPad and iPhone) for an industry that desperately needs it.&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;WHAT YOU WILL BRING TO DRAWBOARD:&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Proficient mid-level to senior developer with a passion for building functional and high quality software.&amp;nbsp;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;At least three years iOS experience.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience with Swift.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience with Xcode.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experienced senior developer (or very talented mid-level) who has strong knowledge of system architecture.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Worked in a collaborative environment prior to this that demonstrates an ability to work well in teams and have one or more quality apps on the App Store.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Working knowledge of complex mathematics (particularly around transformation matrices).&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Extensive experience with Cocoa Touch Framework.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;A passion of modern design patterns.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;General experience developing responsive asynchronous apps.&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Bonus points if you have:&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Experience with Objective C.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Android development experience.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;ReactNative development experience.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Prior experience working at a startup.&lt;/li&gt;&lt;br /&gt;&lt;li&gt;A degree in computer science or mathematics.&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;WHAT WE CAN OFFER YOU:&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;A competitive salary&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Remote working arrangements&lt;/li&gt;&lt;br /&gt;&lt;li&gt;The opportunity to lead a growing mobile team&lt;/li&gt;&lt;br /&gt;&lt;li&gt;A talented team of &amp;nbsp;passionate technical people&lt;/li&gt;&lt;br /&gt;&lt;li&gt;An easy-going, social environment. You really need to see the office and meet the people!&lt;/li&gt;&lt;br /&gt;&lt;li&gt;A rare chance to develop for the latest Apple hardware, particularly around touch and Pencil.&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+      <pubDate>Sat, 05 May 2018 21:18:39 Z</pubDate>
+      <a10:updated>2018-05-05T21:18:39Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+    <item>
+      <guid isPermaLink="false">160122</guid>
+      <link>https://stackoverflow.com/jobs/160122/c-sharpnet-dev-windows-app-team-drawboard?a=RHoCjNqyhiM</link>
+      <a10:author>
+        <a10:name>Drawboard</a10:name>
+      </a10:author>
+      <category>c#</category>
+      <category>.net</category>
+      <category>xaml</category>
+      <category>rest</category>
+      <category>wpf</category>
+      <title>C#.Net Dev | Windows App Team at Drawboard (Melbourne, Australia)</title>
+      <description>&lt;p&gt;&lt;strong&gt;THE ROLE&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;You will be part of a team developing a highly interactive application using modern system architecture and user-interface methods. You will need an appreciation for fluid interfaces and develop lean assets to improve graphical performance and memory usage.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Required experience and technologies&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Strong C# .NET skills in multi-threaded environments&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Solid code design / architecture principals including MVVM&lt;/li&gt;&lt;br /&gt;&lt;li&gt;WPF and/or Silverlight&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Graphical mathematics&amp;nbsp;knowledge ( Matrices, Trig)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Test Driven Development&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Good-to-have skills:&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;Computer Graphics algorithm knowledge&lt;/li&gt;&lt;br /&gt;&lt;li&gt;XAML ( Custom controls and theming)&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience with UWP, WinRT and or WP8&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Experience with Win2D&lt;/li&gt;&lt;br /&gt;&lt;li&gt;GIT Source Control&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Agile Software Development&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;p&gt;Join a development team that works smart, enjoys a social catch up and has a sense of humour.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;THE OFFER&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;&amp;nbsp;A salary to reflect how good you are&lt;/li&gt;&lt;br /&gt;&lt;li&gt;The opportunity to set the technical direction from day one&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Work with talented technical passionate people&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Easy-going, social environment. You really need to see the office and meet the people!&lt;/li&gt;&lt;br /&gt;&lt;li&gt;Develop for the latest hardware, with technical challenge&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;</description>
+      <pubDate>Wed, 16 May 2018 22:00:17 Z</pubDate>
+      <a10:updated>2018-05-16T22:00:17Z</a10:updated>
+      <location xmlns="http://stackoverflow.com/jobs/">Melbourne, Australia</location>
+    </item>
+  </channel>
+</rss>
