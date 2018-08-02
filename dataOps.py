@@ -86,7 +86,7 @@ def insert_job_posting(jobPostXmlEle, db_conn):
                            jobPostXmlEle.find('{http://stackoverflow.com/jobs/}location').text,
                           )
                          )
-                         
+
         # job posting id to create association with its categories
         inserted_job_posting_id = db_cursor.lastrowid
 
@@ -103,6 +103,22 @@ def insert_job_posting(jobPostXmlEle, db_conn):
         raise
     finally:
         db_conn.commit()
+
+def pullJobPostingsAtLocation(location, database_name_text):
+    """Given a valid location, puts all job postings at that location into db
+       specified by param. 'database_name_text'
+    """
+    # grab xml from stackoverflow rss feed
+    webString = getStringFromUrl('https://stackoverflow.com/jobs/feed?location=' + location)
+    root = ET.fromstring(webString) # grab root element of tree of xml elements
+
+    db_conn = dataOps.get_db_connect(database_name_text)
+
+    # for each job posting in the rss feed, insert into database
+    for jobPostingItem in root[0].iter('item'):
+        dataOps.insert_job_posting(jobPostingItem, db_conn)
+
+    db_conn.close()
 
 def get_category_id(category_string, db_cursor):
     """If category given by parameter 'category_string' has not been added to

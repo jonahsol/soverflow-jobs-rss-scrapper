@@ -9,8 +9,7 @@ A small script to collate data from the [Stack Overflow jobs rss feed](https://s
 ### TODO
 
 * Integrate pipenv
-* Set up a database(tbd) to store job postings
-* Display analysis of most common technologies used in jobs
+* Do some data analysis
 
 ### Attribution
 

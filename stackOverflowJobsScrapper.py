@@ -12,22 +12,12 @@ import dataOps
 import xml.etree.ElementTree as ET
 import urllib.request
 
-URL = 'https://stackoverflow.com/jobs/feed?location=melbourne'
-
 def main():
     """Grab xml from rss feed at 'URL'. Use python module 'ElementTree' to
        traverse tree, and then insert each job posting into relations
        in database passed as argument to 'dataOps.insert_job_posting()'
     """
-    webString = getStringFromUrl(URL)
-    root = ET.fromstring(webString) # grab root element of tree of xml elements
-
-    db_conn = dataOps.get_db_connect('qwer.db')
-
-    for jobPostingItem in root[0].iter('item'):
-        dataOps.insert_job_posting(jobPostingItem, db_conn)
-
-    db_conn.close()
+    dataOps.pullJobPostingsAtLocation('melbourne', 'qwer.db')
 
 def getStringFromUrl(url):
     """Given a url, returns string of data at url.
