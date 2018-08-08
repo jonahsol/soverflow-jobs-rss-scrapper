@@ -4,11 +4,17 @@ A small script to collate data from the [Stack Overflow jobs rss feed](https://s
 ### Prerequisites
 
  - Python
- - Python modules: urllib.request
+
+### Usage
+
+ - Running 'dataOps.py' as main will initialise a db for job posting relations. This can be
+   done to create a fresh db (see func. 'create_job_posting_relations()' in 'dataOps.py'
+ - Running 'stackOverflowJobsScrapper' as main will pull xml from rss feed at specified locations,
+   and insert job posting data into the specified database.
+ - Querying database - see https://docs.python.org/2/library/sqlite3.html
 
 ### TODO
 
-* Integrate pipenv
 * Do some data analysis
 
 ### Attribution
